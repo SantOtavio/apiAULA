@@ -1,0 +1,32 @@
+.tabelContainer {
+    width: 50%;
+    height: min-content;
+    row-gap: 50px;
+    position: relative;
+    left: 25%;
+    top: 2vh;
+    border: solid 3px black;
+}
+
+.gitcontainer1 {
+    display: flex;
+    align-items: center;
+}
+
+.nameColumn {
+    width: 40%;
+    height: 35px;
+    border: solid 1px black;
+}
+
+.usernameColumn {
+    width: 60%;
+    height: 35px;
+    border: solid 1px black;
+}
+
+.buttonToRepo {
+    width: 80px;
+    height: 50px;
+    background-color: lightblue;
+}
