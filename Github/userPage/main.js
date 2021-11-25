@@ -1,10 +1,9 @@
 let tirar = document.location.search;
 
 tirar = tirar.substring(1);
-console.log(tirar);
 
 function getUserGithub(tirar) {
-    fetch('https://api.github.com/users/' + tirar).then(function(resultado) {
+    fetch('https://fake-github.herokuapp.com/api/search/brunohvc/repos').then(function(resultado) {
         console.log('Bruno')
         resultado.json().then(function(data) {
             console.log('Data:', data);
