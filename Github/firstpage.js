@@ -3,7 +3,7 @@ const listUser = [
     { name: "Vytor Augusto Rosa", userName: "K43RU" },
     { name: "João Henrique Meirelles da Silva", userName: "nihilth" },
     { name: "Otavio Augusto dos Santos", userName: "SantOtavio" },
-    { name: "Camilly de Souza Pessotti", userName: "camilliPesotti" },
+    { name: "Camilly de Souza Pessotti", userName: "camillyPessotti" },
     { name: "Thiago Marins Braga", userName: "ThiagoBrag" },
     { name: "Ester Girelli", userName: "Esterzinha12" },
     { name: "Gustavo Rebelatto Zapella", userName: "rebelattogustavo" },
